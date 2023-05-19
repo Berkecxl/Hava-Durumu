@@ -1,0 +1,15 @@
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.exe.config
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.exe
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.pdb
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Guna.UI2.dll
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.AssemblyReference.cache
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava_Durumu.Form1.resources
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava_Durumu.Properties.Resources.resources
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.GenerateResource.cache
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.CoreCompileInputs.cache
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.CopyComplete
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.exe
+C:\Users\celik\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.pdb
